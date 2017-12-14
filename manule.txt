@@ -1,0 +1,8 @@
+hi!
+Thus project you basically you implement a raytracing on the sphere
+Instructions
+1>to run the code enter "make" where you complile all the class files available by creating their correspoing object files.
+2>and the enter the recursion index to how extent you want to implement ray splitings and this is done by recursive funcion call defined in tracer.cc file
+3>then enter "./raytracing"
+you get the output of there sphere with their reflections on the other sphere.
+and moreover I implemented this one to display it in ".ppm" file rather than glut display window which is very quite intresting.
